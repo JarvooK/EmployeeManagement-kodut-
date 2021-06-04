@@ -1,0 +1,10 @@
+﻿<h1 style="@ElementStyle @H1Boarder">--Grand Child Component Text - @Counter</h1>
+
+@code {
+    [CascadingParameter(Name = "ColorStyle")]
+    public string ElementStyle { get; set; }
+    [CascadingParameter(Name = "BoarderStyle")]
+    public string H1Boarder { get; set; }
+    [CascadingParameter(Name = "Counter")]
+    public int Counter { get; set; }
+}

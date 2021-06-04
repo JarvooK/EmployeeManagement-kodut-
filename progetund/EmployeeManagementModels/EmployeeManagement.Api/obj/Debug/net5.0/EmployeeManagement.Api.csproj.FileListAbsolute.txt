@@ -1,0 +1,89 @@
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\appsettings.Development.json
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\appsettings.json
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\EmployeeManagement.Api.exe
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\EmployeeManagement.Api.deps.json
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\EmployeeManagement.Api.runtimeconfig.json
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\EmployeeManagement.Api.runtimeconfig.dev.json
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\EmployeeManagement.Api.dll
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\ref\EmployeeManagement.Api.dll
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\EmployeeManagement.Api.pdb
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\EmployeeManagement.Api.csprojAssemblyReference.cache
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\EmployeeManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\EmployeeManagement.Api.AssemblyInfoInputs.cache
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\EmployeeManagement.Api.AssemblyInfo.cs
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\EmployeeManagement.Api.csproj.CoreCompileInputs.cache
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\EmployeeManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\EmployeeManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\staticwebassets\EmployeeManagement.Api.StaticWebAssets.Manifest.cache
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\staticwebassets\EmployeeManagement.Api.StaticWebAssets.xml
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\scopedcss\bundle\EmployeeManagement.Api.styles.css
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\EmployeeManagement.Api.RazorTargetAssemblyInfo.cache
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\EmployeeManagement.Api.csproj.CopyComplete
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\EmployeeManagement.Api.dll
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\ref\EmployeeManagement.Api.dll
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\EmployeeManagement.Api.pdb
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\EmployeeManagement.Api.genruntimeconfig.cache
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\EmployeeManagementModels.dll
+E:\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\EmployeeManagementModels.pdb
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\appsettings.Development.json
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\appsettings.json
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\EmployeeManagement.Api.exe
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\EmployeeManagement.Api.deps.json
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\EmployeeManagement.Api.runtimeconfig.json
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\EmployeeManagement.Api.runtimeconfig.dev.json
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\EmployeeManagement.Api.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\ref\EmployeeManagement.Api.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\EmployeeManagement.Api.pdb
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\EmployeeManagement.Api.csprojAssemblyReference.cache
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\EmployeeManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\EmployeeManagement.Api.AssemblyInfoInputs.cache
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\EmployeeManagement.Api.AssemblyInfo.cs
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\EmployeeManagement.Api.csproj.CoreCompileInputs.cache
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\EmployeeManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\staticwebassets\EmployeeManagement.Api.StaticWebAssets.Manifest.cache
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\staticwebassets\EmployeeManagement.Api.StaticWebAssets.xml
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\scopedcss\bundle\EmployeeManagement.Api.styles.css
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\EmployeeManagement.Api.RazorTargetAssemblyInfo.cache
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\EmployeeManagement.Api.csproj.CopyComplete
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\EmployeeManagement.Api.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\ref\EmployeeManagement.Api.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\EmployeeManagement.Api.pdb
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\obj\Debug\net5.0\EmployeeManagement.Api.genruntimeconfig.cache
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\Humanizer.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\EmployeeManagement.Models.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagement.Api\bin\Debug\net5.0\EmployeeManagement.Models.pdb

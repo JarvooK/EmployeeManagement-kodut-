@@ -1,0 +1,24 @@
+E:\progetund\EmployeeManagementModels\EmployeeManagementModels\bin\Debug\net5.0\EmployeeManagementModels.deps.json
+E:\progetund\EmployeeManagementModels\EmployeeManagementModels\bin\Debug\net5.0\EmployeeManagementModels.dll
+E:\progetund\EmployeeManagementModels\EmployeeManagementModels\bin\Debug\net5.0\ref\EmployeeManagementModels.dll
+E:\progetund\EmployeeManagementModels\EmployeeManagementModels\bin\Debug\net5.0\EmployeeManagementModels.pdb
+E:\progetund\EmployeeManagementModels\EmployeeManagementModels\obj\Debug\net5.0\EmployeeManagementModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\progetund\EmployeeManagementModels\EmployeeManagementModels\obj\Debug\net5.0\EmployeeManagementModels.AssemblyInfoInputs.cache
+E:\progetund\EmployeeManagementModels\EmployeeManagementModels\obj\Debug\net5.0\EmployeeManagementModels.AssemblyInfo.cs
+E:\progetund\EmployeeManagementModels\EmployeeManagementModels\obj\Debug\net5.0\EmployeeManagementModels.csproj.CoreCompileInputs.cache
+E:\progetund\EmployeeManagementModels\EmployeeManagementModels\obj\Debug\net5.0\EmployeeManagementModels.dll
+E:\progetund\EmployeeManagementModels\EmployeeManagementModels\obj\Debug\net5.0\ref\EmployeeManagementModels.dll
+E:\progetund\EmployeeManagementModels\EmployeeManagementModels\obj\Debug\net5.0\EmployeeManagementModels.pdb
+E:\progetund\EmployeeManagementModels\EmployeeManagementModels\obj\Debug\net5.0\EmployeeManagementModels.csprojAssemblyReference.cache
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagementModels\bin\Debug\net5.0\EmployeeManagementModels.deps.json
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagementModels\bin\Debug\net5.0\EmployeeManagementModels.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagementModels\bin\Debug\net5.0\ref\EmployeeManagementModels.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagementModels\bin\Debug\net5.0\EmployeeManagementModels.pdb
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagementModels\obj\Debug\net5.0\EmployeeManagementModels.csprojAssemblyReference.cache
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagementModels\obj\Debug\net5.0\EmployeeManagementModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagementModels\obj\Debug\net5.0\EmployeeManagementModels.AssemblyInfoInputs.cache
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagementModels\obj\Debug\net5.0\EmployeeManagementModels.AssemblyInfo.cs
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagementModels\obj\Debug\net5.0\EmployeeManagementModels.csproj.CoreCompileInputs.cache
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagementModels\obj\Debug\net5.0\EmployeeManagementModels.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagementModels\obj\Debug\net5.0\ref\EmployeeManagementModels.dll
+E:\New folder\progetund\EmployeeManagementModels\EmployeeManagementModels\obj\Debug\net5.0\EmployeeManagementModels.pdb
